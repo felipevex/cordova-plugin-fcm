@@ -40,6 +40,7 @@ var PLATFORM = {
         ],
         src: [
             'google-services.json',
+			ANDROID_DIR + '/app/google-services.json',
             ANDROID_DIR + '/assets/www/google-services.json',
             'www/google-services.json'
         ],
